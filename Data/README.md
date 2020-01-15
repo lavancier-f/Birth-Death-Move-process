@@ -4,6 +4,6 @@ The data consist of a sequence of 1199 frames showing the locations of two types
 
 - The post-processed sequences by a Gaussian filtering are: M10_LangerinYFp_09_GaussianWeights.mp4 and M10_Rab11mCherry_09_GaussianWeights.mp4
 
-- The result of proteins tracking (by Utrack) for the previous sequences are: Utrack_Langerin_GaussianWeights.mp4 and Utrack_Rab11_GaussianWeights.mp4
+- The result of proteins tracking (by the U-track algorithm) for the previous sequences are: Utrack_Langerin_GaussianWeights.mp4 and Utrack_Rab11_GaussianWeights.mp4
 
 See the article for more details.
