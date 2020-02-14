@@ -1,6 +1,6 @@
 # Birth-Death-Move-process
 
-These codes and data are part of the supporting information of the article "Spatial birth-death-move processes : basic properties and estimation of their intensity functions” by Frédéric Lavancier and Ronan Le Guével (available on  <a href="https://arxiv.org/abs/2002.05423">arXiv:2002.05423 </a>)
+These codes and data are part of the supporting information of the article "Spatial birth-death-move processes : basic properties and estimation of their intensity functions” by Frédéric Lavancier and Ronan Le Guével (available on  <a href="https://arxiv.org/abs/2002.05423">arXiv:2002.05423</a>).
 
 - “Functions_BDM.R” : contains the main R functions to estimate the rate function of a birth-death-move process, whether observed in continuous-time or in discrete-time. 
 
